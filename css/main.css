@@ -71,7 +71,7 @@ h2 {
 
 h3 {
   font-size: 1.2em;
-  margin: 10px 0;
+  margin: 0 0 10px 0;
 }
 
 .unit img {
@@ -89,6 +89,11 @@ h3 {
 .banner {
   background: #AD2C2C;
   color: #f3f3f3;
+}
+
+.banner-icon{
+  fill: #f3f3f3;
+  margin: 0 5px 0 7px;
 }
 
 .callout {
