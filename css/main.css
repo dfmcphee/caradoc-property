@@ -59,13 +59,49 @@ body {
   color: #3b3b3b;
 }
 
+h1 {
+  font-size: 1.8em;
+  margin: 10px 0;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin: 10px 0 20px 0;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.unit img {
+  height: auto;
+}
+
 .right-aligned {
   text-align: right;
 }
 
+.center-aligned {
+  text-align: center;
+}
+
 .banner {
-  background: #C54E4E;
+  background: #AD2C2C;
   color: #f3f3f3;
+}
+
+.callout {
+  padding: 0 0 15px 0;
+}
+
+.callout-icon {
+  border: solid 3px #3b3b3b;
+  fill: #3b3b3b;
+  height: 80px;
+  border-radius: 50%;
+  width: 80px;
+  padding: 30px;
 }
 
 
